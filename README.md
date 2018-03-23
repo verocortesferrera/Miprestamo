@@ -200,7 +200,7 @@ Seguimos ajustando detalles y mejorando el flujo y el diseño de nuestro prototi
 ![prototipo](https://i.imgur.com/vhczK8Q.png)
 ![prototipo](https://i.imgur.com/Z87zfRN.png)
 ![prototipo](https://i.imgur.com/D8Dau5l.png)
-![prototipo](https://i.imgur.com/7EWmjlA.png)
+
 
 Proyecto desarrollado para Laboratoria
 
